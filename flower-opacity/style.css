@@ -1,0 +1,24 @@
+body {
+   margin-left: 130px;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Gamja Flower', cursive;
+    margin: 0px;
+    font-size: 5em;
+}
+
+div {
+    width: 150px;
+    height: 150px;
+    background-size: cover;
+    background-position: center;
+    display: inline-block;
+    margin: 0.5em;
+    opacity: 0.3;
+}
+
+div:hover {
+    opacity: 1;
+}
